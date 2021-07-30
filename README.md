@@ -23,13 +23,13 @@ Os arquivos abrirão direto no Excel, mas haverá problemas com palavras acentua
 
 ![Ponto e vírgula](assistente-importacao-2-de-3.png)
 
-## Exemplos
+## Exemplos completos
 
 - [python-exemplo.ipynb](python-exemplo.ipynb) - carrega dados em um Dataframe e exibe um gráfico
 - [python-api.ipynb](python-api.ipynb) - usa a api para busca de dados e download
 - [python-api-filtros.ipynb](python-api-filtros.ipynb) - usa a API para filtrar dados. Use para baixar só os dados que precisa e trabalhar com arquivos menores. 
 
-## Executando o código Python 
+### Executando o código Python 
 
 Todas as bibliotecas utilizadas nos exemplos estão no arquivo [requirements.txt](requirements.txt). Recomenda-se o uso de um ambiente virtual: 
 ```
