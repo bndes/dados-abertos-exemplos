@@ -41,3 +41,11 @@ pip install -r requirements.txt
 ```
 
 Então execute o comando `jupyter-lab` para executar os notebooks.
+
+## Informações sobre as bases
+
+Além da documentação em cada dataset, fizemos apresentações sobre os dados quando do 
+[Prêmio Dados Abertos para o Desenvolvimento](https://www.bndes.gov.br/premiodadosabertos). Estas apresentações podem ser úteis para entender as bases. Estão publicadas no canal de YouTube dos organizadores do Prêmio e na descrição há um link para o momento exato no vídeo onde cada base é descrita. 
+
+- [Apresentação 1](https://youtu.be/FC7owoLect4?t=26). Bases: Financiamento à Exportação pré e pós-embarque, Desestatização/Banco de serviços, e Operações indiretas automáticas & micro, pequena e média empresa.
+- [Apresentação 2](https://youtu.be/y8caOOHlJa0?t=29). Bases: Estatísticas Operacionais, Indicadores financeiros/Contabilidade, Contratos Administrativos, Indicações a colegiados, e Renda Variável.
