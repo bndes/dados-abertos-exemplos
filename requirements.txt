@@ -1,8 +1,8 @@
-jupyterlab==3.0.16
-matplotlib==3.4.2
-numpy==1.21.1
-pandas==1.3.1
-requests==2.26.0
-seaborn==0.11.1
-# woraround caso o venv seja criado com pip no conda
-pywin32==225
+# sem versão para funcionar com qualquer python
+# estes pacotes sempre funcionam bem juntos
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+seaborn
